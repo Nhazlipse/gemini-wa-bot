@@ -1,0 +1,34 @@
+{
+  "name": "nas-ai-wa-bot",
+  "version": "1.0.0",
+  "description": "A multifunctional WhatsApp bot powered by Gemini AI with a Sticker Maker.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhazlipse/gemini-wa-bot.git"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "gemini-ai",
+    "sticker-maker",
+    "whatsapp-web.js",
+    "nodejs"
+  ],
+  "author": "Nas (nhazlipse)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhazlipse/gemini-wa-bot/issues"
+  },
+  "homepage": "https://github.com/nhazlipse/gemini-wa-bot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.15.0",
+    "dotenv": "^16.4.5",
+    "jimp": "^0.22.12",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
