@@ -29,8 +29,8 @@ Before you begin, ensure you have the following:
 
 1.  **Clone or Download This Repository**
     ```bash
-    git clone [https://github.com/nhazlipse/gemini-wa-bot.git] (https://github.com/nhazlipse/gemini-wa-bot.git)
-    cd your-repo-name
+    git clone [https://github.com/nhazlipse/gemini-wa-bot.git]
+    cd gemini-wa-bot
     ```
 
 2.  **Install All Required Packages**
